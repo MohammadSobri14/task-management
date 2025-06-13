@@ -18,7 +18,7 @@ A RESTful API built with Laravel for managing tasks. It supports full CRUD opera
 
 ## 🔧 Technologies Used
 
-- Laravel 10
+- Laravel 12
 - PHP 8.x
 - MySQL
 - PHPUnit
